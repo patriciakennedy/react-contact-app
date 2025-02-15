@@ -1,8 +1,7 @@
 import React from 'react';
 
-
 const ContactList = () => {
-    return <div>Contactist</div>;
+    return <div className="ui celled list">Contact List</div>;
 };
 
 export default ContactList;

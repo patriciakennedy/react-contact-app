@@ -22,6 +22,7 @@ const AddContact = () => {
                             name="name"
                             placeholder="Email"
                         ></input>
+                        <button className="ui button blue">Add</button>
                     </div>
                 </form>
             </div>
